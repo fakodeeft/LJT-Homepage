@@ -7,24 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at HKUST NLP Group, advised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am **Junteng Liu**, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Professor Junxian He](https://jxhe.github.io/). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
 
-My research interests include:
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM truthfulness and Interpretability
+My research focuses on **natural language processing** and **machine learning**. I am especially interested in making large language models and vision-language models more reliable, interpretable, and capable of reasoning.
+
+## Research Interests
+
+- **LLM Reasoning and Reinforcement Learning**
+- **Hallucination in Vision-Language Models (VLM)**
+- **LLM Truthfulness and Interpretability**
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024–Present), Hong Kong University of Science and Technology
-- **B.Eng.** (2020–2024), Shanghai Jiao Tong University
+- **Ph.D. in Computer Science** (2024–Present)  
+  Hong Kong University of Science and Technology
+
+- **B.Eng.** (2020–2024)  
+  Shanghai Jiao Tong University
 
 ## Research Experience
 
-- Research Intern at MINIMAX (February 2025 – Present)
-- Research Intern at Tencent WXG (June 2024 – September 2024)
-- Research Intern at Shanghai AI Lab (June 2023 – December 2023)
+- **Research Intern**, MINIMAX (February 2025 – Present)
+- **Research Intern**, Tencent WXG (June 2024 – September 2024)  
+  Advisor: Zifei Shan
+- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023)  
+  Advisor: Prof. Yu Cheng
 
 ## Honors
 
-- Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+## Contact
+
+- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
